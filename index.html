@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ro">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -247,10 +247,10 @@
 <body>
     <!-- Navigation Bar -->
     <nav>
-        <a href="#home">Acasă</a>
-        <a href="#about">Despre Noi</a>
-        <a href="#mission">Misiune</a>
-        <a href="#gallery">Galerie</a>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#mission">Mission</a>
+        <a href="#gallery">Gallery</a>
     </nav>
 
     <!-- Hero Section -->
@@ -264,24 +264,24 @@
     <!-- About Section -->
     <section class="content" id="about">
         <div class="section">
-            <h2>Despre Noi</h2>
-            <p>CyTZero National Security Team este o grupare dedicată securității cibernetice și protecției infrastructurilor digitale. Suntem o echipă de profesioniști care condamnăm orice formă de terorism și abuzuri online, în special pornografia cu minori. Ne angajăm ferm să combatem orice activitate online ilegală care promovează astfel de acte. Scopul nostru este de a ataca și dezvălui orice rețea, site sau activitate cibernetică care este implicată în aceste infracțiuni. Promovăm securitatea, respectul pentru drepturile omului și protecția datelor personale.</p>
+            <h2>About Us</h2>
+            <p>CyTZero National Security Team is a group dedicated to cybersecurity and the protection of digital infrastructures. We are a team of professionals who condemn any form of terrorism and online abuse, especially child pornography. We are firmly committed to combating any illegal online activity that promotes such acts. Our goal is to target and expose any network, website, or cyber activity involved in these crimes. We promote security, respect for human rights, and the protection of personal data.</p>
         </div>
     </section>
 
     <!-- Mission Section -->
     <section class="content" id="mission">
         <div class="section">
-            <h2>Misiune</h2>
-            <p>Scopul nostru este de a pune la pământ terorismul global și de a dezvălui secretele ascunse ale lumii întunecate. Suntem o echipă determinată să eliminăm amenințările cibernetice și să expunem adevărul, indiferent de riscuri. Vom folosi toate resursele pentru a înfrunta forțele care operează din umbră, atacând rețelele criminale și expunând secretele care pot afecta siguranța globală.</p>
+            <h2>Mission</h2>
+            <p>Our goal is to bring down global terrorism and expose the hidden secrets of the dark web. We are a determined team committed to eliminating cyber threats and exposing the truth, regardless of the risks. We will use all available resources to confront the forces operating in the shadows, attacking criminal networks and revealing secrets that could threaten global safety.</p>
         </div>
     </section>
 
     <!-- Gallery Section -->
     <section class="content" id="gallery">
         <div class="section">
-            <h2>Galerie Media</h2>
-            <p>Mai jos găsești o selecție de imagini și materiale vizuale relevante pentru activitatea noastră.</p>
+            <h2>Media Gallery</h2>
+            <p>Below is a selection of images and visual materials relevant to our work.</p>
             <div class="gallery">
                 <img src="https://cdn.discordapp.com/attachments/1298742942919299154/1305097845086355556/Capture.PNG?ex=6731ca95&is=67307915&hm=645fecb2bbef1077cec1213d46e4ccf31f3b274ea1c16e9cd0a9cbf706d4519e&" alt="Capture">
                 <img src="https://cdn.discordapp.com/attachments/1298742942919299154/1305098755711696956/photo_5834777981912990552_y.jpg?ex=6731cb6e&is=673079ee&hm=a432b89feb1068b957819f0aa1369407dbcabd31eb29f343eac7918fa71eaf61&" alt="Photo">
@@ -291,7 +291,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 CyTZero National Security Team. Toate drepturile rezervate.</p>
+        <p>&copy; 2024 CyTZero National Security Team. All rights reserved.</p>
     </footer>
 
     <script>
